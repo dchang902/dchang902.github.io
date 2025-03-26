@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url("");
+    background-color: aqua;
+}
+
+img{
+    width:500px;
+}
+
+.image1{
+    width:200px;
+}
